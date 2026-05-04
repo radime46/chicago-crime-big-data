@@ -42,6 +42,7 @@ Chicago Crime CSV
 ## Setup Instructions
 Run these commands from the project folder:
 
+```bash
 docker compose up -d
 docker ps
 
@@ -50,7 +51,7 @@ PYTHONPATH=. uv run python src/clean_data.py
 PYTHONPATH=. uv run python src/create_indexes.py
 PYTHONPATH=. uv run python src/aggregate_data.py
 PYTHONPATH=. uv run streamlit run src/app.py
-
+```
 
 
 ## Pipeline Stages
