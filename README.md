@@ -23,7 +23,12 @@ Some of the main fields are:
 
 Because of the size and detail of the dataset, it worked well for a big data project.
 
+The dataset is not included in this repository due to GitHub file size limits. 
+It can be downloaded from the City of Chicago Data Portal and placed in:
 
+data/raw/chicago_crime.csv
+
+https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2
 
 ## Architecture
 The pipeline follows this flow:
