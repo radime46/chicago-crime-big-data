@@ -1,0 +1,18 @@
+2026-05-02 16:22:29,483 - INFO - Starting raw data ingestion
+2026-05-02 16:22:59,731 - INFO - Finished raw ingestion. Total rows inserted: 1418664
+2026-05-02 16:25:37,528 - INFO - Starting cleaning process
+2026-05-02 16:26:18,002 - INFO - Cleaning complete. Cleaned: 1418477. Skipped: 187
+2026-05-02 16:44:33,344 - INFO - Starting aggregations
+2026-05-02 16:44:36,839 - INFO - Finished aggregations
+2026-05-02 16:55:35,786 - INFO - Starting aggregations
+2026-05-02 16:55:39,194 - INFO - Finished aggregations
+2026-05-04 16:14:41,126 - INFO - Starting raw data ingestion
+2026-05-04 16:15:12,611 - INFO - Finished raw ingestion. Total rows inserted: 1418664
+2026-05-04 16:16:51,436 - INFO - Starting cleaning process
+2026-05-04 16:17:32,026 - INFO - Cleaning complete. Cleaned: 1418477. Skipped: 187
+2026-05-04 16:19:56,699 - INFO - Starting raw data ingestion
+2026-05-04 16:20:28,726 - INFO - Finished raw ingestion. Total rows inserted: 1418664
+2026-05-04 16:20:37,512 - INFO - Starting cleaning process
+2026-05-04 16:21:18,887 - INFO - Cleaning complete. Cleaned: 1418477. Skipped: 187
+2026-05-04 16:21:53,594 - INFO - Starting aggregations
+2026-05-04 16:21:57,018 - INFO - Finished aggregations
