@@ -26,7 +26,7 @@ The dataset contains millions of rows, making it suitable for a big data project
 ---
 
 ## Architecture
-![Architecture Diagram](architecture.pdf)
+
 
 Pipeline Flow:
 
